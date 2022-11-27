@@ -73,6 +73,10 @@ button:hover {
   margin:10px 20px;
 }
 
+.HeaderLogoImg:hover {
+	opacity: 0.6;
+}
+
 /*モバイル=================*/
 @media screen and (max-width: 989px) {
   header {
@@ -303,6 +307,10 @@ label {
  border-radius: 50px;
 }
 
+.MainButtonContact:hover {
+	opacity: 0.6;
+}
+
 .MainButtonDownload {
  color: black;
  background-color: white;
@@ -313,6 +321,10 @@ label {
  font-size: 18px;
  border-radius: 50px;
  margin-left: 15px;
+}
+
+.MainButtonDownload:hover {
+	opacity: 0.6;
 }
 
 /*モバイル=================*/
