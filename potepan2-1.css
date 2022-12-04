@@ -1,0 +1,30 @@
+.box {
+  width: 500px;
+  height: 300px;
+  background-color: orange;
+}
+
+h3 {
+  text-align:center;
+  font-size: 30px;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.time-display {
+  text-align:center;
+  font-size: 50px;
+  margin: 30px;
+}
+
+.buttonFlex {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 80px;
+}
+
+input {
+  font-size: 20px;
+  width: 100px;
+  height: 50px;
+}
